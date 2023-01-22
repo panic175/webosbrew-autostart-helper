@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# HASS stuff
+/automations.yaml
+/configuration.yaml
+/scenes.yaml
+/scripts.yaml
+/secrets.yaml
+.DS_Store
