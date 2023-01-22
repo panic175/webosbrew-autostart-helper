@@ -18,7 +18,7 @@ alias: WebOS Brew Autostart
 description: ""
 trigger:
   - platform: device
-    device_id: 3b33357c8227c7fd237fc8ddfb990b84 # This will be different for you. I used graphical editor to figure this out
+    device_id: 3b3 # This will be different for you. I used graphical editor to figure this out
     domain: media_player
     entity_id: media_player.lg_webos_smart_tv
     type: turned_on
