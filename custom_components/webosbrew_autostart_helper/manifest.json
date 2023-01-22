@@ -1,0 +1,12 @@
+{
+  "codeowners": ["@panic175"],
+  "config_flow": false,
+  "dependencies": [],
+  "description": "This component allows to start the autostart on WebOS TV",
+  "documentation": "https://github.com/panic175/webosbrew-autostart-helper",
+  "domain": "webosbrew_autostart_helper",
+  "iot_class": "local_polling",
+  "name": "WebOS Brew Autostart Helper",
+  "requirements": ["aiohttp", "aiopylgtv"],
+  "version": "0.0.1"
+}

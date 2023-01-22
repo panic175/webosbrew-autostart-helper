@@ -1,0 +1,7 @@
+webosbrew_autostart:
+  description: Start autostart on WebOS TV
+  fields:
+    ip:
+      description: IP address of the TV
+      example: "192.168.1.100"
+      required: true
